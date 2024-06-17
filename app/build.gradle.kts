@@ -72,4 +72,7 @@ dependencies {
 
     // core
     implementation(libs.core)
+
+    // collections
+    implementation(libs.collections)
 }
